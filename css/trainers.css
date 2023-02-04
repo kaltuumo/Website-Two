@@ -1,0 +1,137 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(48, 44, 44);
+}
+.nav{
+    text-align: right;
+    margin-top: 40px;
+}
+.nav a{
+    text-decoration: none;
+    margin: 10px;
+    font-size: 25px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    margin-right: 20px;
+}
+.nav a:hover{
+    color: rgb(151, 54, 54);
+}
+.container h1{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 120px;
+}
+.container h4{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 310px;
+}
+.card{
+    float: left;
+}
+.card{
+    margin-left: 20px;
+    background-color: rgb(48, 44, 44);
+    /* background-color: white; */
+    width: 320px;
+    height: 310px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.card img{
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 290px;
+    height: 190px;
+    border-radius: 5px;
+}
+.card h2{
+    color: white;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20px;
+}
+.card p{
+    color: white;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20px;
+}
+.card1{
+    float: left;
+}
+.card1{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    /* background-color: rgb(48, 44, 44); */
+    background-color: rgb(61, 56, 56);
+    width: 390px;
+    height: 450px;
+    border-radius: 5px;
+    margin: 20px;
+
+   
+}
+.card1 h5{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card1 p{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    margin-top: 0;
+}
+.card1 .button{
+    /* background-color: white; */
+    background-color: rgb(61, 56, 56);
+    margin-left: 100px;
+    margin-top: 10px;
+    width: 170px;
+    padding: 7px;
+    color: white;
+    border: 2px solid white;
+    font-size: 20px;
+    border-radius: 6px;
+}
+.card2{
+    float: left;
+}
+.card2{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(61, 56, 56);
+    /* background-color: white; */
+    width: 310px;
+    height: 420px;
+    border-radius: 5px;
+    margin: 20px;
+}
+.card2 img{
+    /* margin-left: 10px;
+    margin-top: 10px; */
+    width: 308px;
+    height: 190px;
+    border-radius: 5px;
+}
+.card2 h2{
+    color: white;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20px;
+}
+.card2 p{
+    color: white;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20px;
+}

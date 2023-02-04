@@ -1,0 +1,99 @@
+body{
+    margin: 0;
+    padding: 0;
+    /* background-color: rgb(68, 67, 67); */
+    color: white;
+    background-image:url(../images/home-bg-1.jpg);
+    background-size: cover;
+    border-image: no-repeat;
+    margin-bottom: 100px;
+    margin-left: 100px;
+
+
+   
+}
+.container h1{
+    margin-top: 90px;
+    margin-left: 100px;
+    background-color: rgb(151, 54, 54);
+    width: 230px;
+    padding: 15px;
+}
+.container h2{
+    margin-top: 140px;
+    margin-left: 300px;
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+}
+.container p{
+    margin-top: 0;
+    margin-left: 200px;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.nav{
+    text-align: right;
+    font-size: 25px;
+    margin-right: 20px;
+    margin-top: 50px;
+   
+    
+}
+.nav a{
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+   
+}
+.nav a:hover{
+    color: rgb(151, 54, 54);
+}
+.navs{
+    text-align: left;
+    font-size: 25px;
+    margin-top: 100px;
+    margin-left: 300px;
+ 
+}
+.navs a{
+    text-decoration: none;
+    background-color: rgb(151, 54, 54);
+    border-radius: 10px;
+    color: white;
+    margin: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    width: 600px;
+    padding: 15px;
+   
+   
+}
+.card{
+    width: 900px;
+    
+    width: 1900px;
+}
+.card{
+    background-color: black;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+.footer{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    width:90%;
+    bottom: 0;
+    position: fixed;
+    margin-right: 200px;
+   
+  
+}

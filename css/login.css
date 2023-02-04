@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(48, 44, 44);
+}
+.container{
+    background-color: white;
+    width: 400px;
+    height: 430px;
+    margin-left: 700px;
+    margin-top: 100px;
+    /* border-radius: 10px; */
+}
+.container h1{
+    
+    text-align: center;
+    font-size: 30px;
+}
+.form label{
+    margin-left: 15px;
+    font-size: 25px;
+}
+.form input{
+    margin-left: 10px;
+    width: 350px;
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.form .btn{
+    margin-top: 0px;
+    margin-left: 20px;
+    width: 350px;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: green;
+    color: white;
+}
+
+.form .btn1{
+    margin-top: 0px;
+    margin-left: 20px;
+    width: 350px;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+}
+.btn p{
+    margin-bottom: 900;
+}
+.form p{
+    margin-left: 10px;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 20px
+}
+.nav{
+    text-align: right;
+    font-size: 25px;
+    margin-right: 20px;
+    margin-top: 50px;
+   
+    
+}
+.nav a{
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+   
+}
+.nav a:hover{
+    color: rgb(151, 54, 54);
+}
+.check input{
+    margin-top: 10px;
+   height: 25px;
+   width: 25px;
+}
+.check{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.check label{
+  
+    margin-top: 0;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+
